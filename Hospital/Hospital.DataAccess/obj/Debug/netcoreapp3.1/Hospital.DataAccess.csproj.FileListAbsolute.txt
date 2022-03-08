@@ -1,0 +1,32 @@
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.deps.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.runtimeconfig.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.runtimeconfig.dev.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.Entities.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.Entities.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.csproj.AssemblyReference.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.AssemblyInfoInputs.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.AssemblyInfo.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.csproj.CoreCompileInputs.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.csproj.CopyComplete
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.genruntimeconfig.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.deps.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.runtimeconfig.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.runtimeconfig.dev.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.DataAccess.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.Entities.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\bin\Debug\netcoreapp3.1\Hospital.Entities.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.csproj.AssemblyReference.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.AssemblyInfoInputs.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.AssemblyInfo.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.csproj.CoreCompileInputs.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.csproj.CopyComplete
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.DataAccess\obj\Debug\netcoreapp3.1\Hospital.DataAccess.genruntimeconfig.cache

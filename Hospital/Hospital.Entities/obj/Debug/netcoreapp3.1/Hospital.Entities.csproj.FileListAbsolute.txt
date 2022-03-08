@@ -1,0 +1,9 @@
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\bin\Debug\netcoreapp3.1\Hospital.Entities.deps.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\bin\Debug\netcoreapp3.1\Hospital.Entities.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\bin\Debug\netcoreapp3.1\Hospital.Entities.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\obj\Debug\netcoreapp3.1\Hospital.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\obj\Debug\netcoreapp3.1\Hospital.Entities.AssemblyInfoInputs.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\obj\Debug\netcoreapp3.1\Hospital.Entities.AssemblyInfo.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\obj\Debug\netcoreapp3.1\Hospital.Entities.csproj.CoreCompileInputs.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\obj\Debug\netcoreapp3.1\Hospital.Entities.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.Entities\obj\Debug\netcoreapp3.1\Hospital.Entities.pdb

@@ -1,0 +1,173 @@
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.exe
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.deps.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.runtimeconfig.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.runtimeconfig.dev.json
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.Views.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.Views.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Application.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.DataAccess.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Entities.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Application.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.DataAccess.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Entities.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.csproj.AssemblyReference.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.AssemblyInfoInputs.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.AssemblyInfo.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.csproj.CoreCompileInputs.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.MvcApplicationPartsAssemblyInfo.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.MvcApplicationPartsAssemblyInfo.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorAssemblyInfo.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorAssemblyInfo.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital.API.StaticWebAssets.Manifest.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital.API.StaticWebAssets.xml
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hospital.API.styles.css
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.TagHelpers.input.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.TagHelpers.output.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorCoreGenerate.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorTargetAssemblyInfo.cache
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorTargetAssemblyInfo.cs
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.Views.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.csproj.CopyComplete
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.dll
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.pdb
+E:\YL_1_2\İş Mülakatları\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.genruntimeconfig.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.exe
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.deps.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.runtimeconfig.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.runtimeconfig.dev.json
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.Views.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.API.Views.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\MediatR.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Application.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.DataAccess.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Entities.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Application.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.DataAccess.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Hospital.Entities.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.csproj.AssemblyReference.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.AssemblyInfoInputs.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.AssemblyInfo.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.csproj.CoreCompileInputs.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.MvcApplicationPartsAssemblyInfo.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.MvcApplicationPartsAssemblyInfo.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorAssemblyInfo.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorAssemblyInfo.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital.API.StaticWebAssets.Manifest.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital.API.StaticWebAssets.xml
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hospital.API.styles.css
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.TagHelpers.input.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.TagHelpers.output.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorCoreGenerate.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorTargetAssemblyInfo.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.RazorTargetAssemblyInfo.cs
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.Views.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.csproj.CopyComplete
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.pdb
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\obj\Debug\netcoreapp3.1\Hospital.API.genruntimeconfig.cache
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\YL_1_2\interviews\Manteq\Hospital\Hospital.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
