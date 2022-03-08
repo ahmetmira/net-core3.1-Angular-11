@@ -1,0 +1,200 @@
+<div style="width: 500px; margin: auto;">
+    <div class="submit-form">
+      <div *ngIf="!submitted">
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input
+            type="text"
+            class="form-control"
+            id="name"
+            required
+            [(ngModel)]="patient.name"
+            name="name"
+          />
+        </div>
+  
+        <div class="form-group">
+          <label for="fileNo">FileNo</label>
+          <input
+            class="form-control"
+            id="fileNo"
+            required
+            [(ngModel)]="patient.fileNo"
+            name="fileNo"
+          />
+        </div>
+
+        <div class="form-group">
+            <label for="citizenId">Citizen Id</label>
+            <input
+              class="form-control"
+              id="citizenId"
+              required
+              [(ngModel)]="patient.citizenId"
+              name="citizenId"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="birthDate">Birth Date</label>
+            <input
+              class="form-control"
+              id="birthDate"
+              required
+              [(ngModel)]="patient.birthDate"
+              name="birthDate"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="gender">Gender</label>
+            <input
+              class="form-control"
+              id="gender"
+              required
+              [(ngModel)]="patient.gender"
+              name="gender"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="natinality">Natinality</label>
+            <input
+              class="form-control"
+              id="natinality"
+              required
+              [(ngModel)]="patient.natinality"
+              name="natinality"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="phoneNumber">Phone Number</label>
+            <input
+              class="form-control"
+              id="phoneNumber"
+              required
+              [(ngModel)]="patient.phoneNumber"
+              name="phoneNumber"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input
+              class="form-control"
+              id="email"
+              required
+              [(ngModel)]="patient.email"
+              name="email"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="country">Country</label>
+            <input
+              class="form-control"
+              id="country"
+              required
+              [(ngModel)]="patient.country"
+              name="country"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="city">City</label>
+            <input
+              class="form-control"
+              id="city"
+              required
+              [(ngModel)]="patient.city"
+              name="city"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="street">Street</label>
+            <input
+              class="form-control"
+              id="street"
+              required
+              [(ngModel)]="patient.street"
+              name="street"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="address1">Address-1</label>
+            <input
+              class="form-control"
+              id="address1"
+              required
+              [(ngModel)]="patient.address1"
+              name="address1"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="address2">Address-2</label>
+            <input
+              class="form-control"
+              id="address2"
+              required
+              [(ngModel)]="patient.address2"
+              name="address2"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="contactPerson">Contact Person</label>
+            <input
+              class="form-control"
+              id="contactPerson"
+              required
+              [(ngModel)]="patient.contactPerson"
+              name="contactPerson"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="contactRelation">Contact Relation</label>
+            <input
+              class="form-control"
+              id="contactRelation"
+              required
+              [(ngModel)]="patient.contactRelation"
+              name="contactRelation"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="contactPhone">Contact Phone</label>
+            <input
+              class="form-control"
+              id="contactPhone"
+              required
+              [(ngModel)]="patient.contactPhone"
+              name="contactPhone"
+            />
+        </div>
+
+        <div class="form-group">
+            <label for="firstVisitDate">First Visit Date</label>
+            <input
+              class="form-control"
+              id="firstVisitDate"
+              required
+              [(ngModel)]="patient.firstVisitDate"
+              name="firstVisitDate"
+            />
+        </div>
+  
+        <button (click)="createPatient()" class="btn btn-success">Create</button>
+      </div>
+  
+      <div *ngIf="submitted">
+        <h3>You successfully created a patient!</h3>
+        <button class="btn btn-success" (click)="newPatient()">New..</button>
+      </div>
+    </div>
+  </div>
